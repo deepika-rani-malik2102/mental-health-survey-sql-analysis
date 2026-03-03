@@ -34,7 +34,7 @@ risk_score = academic_pressure + financial_concerns + depression + anxiety + iso
 
 All SQL queries used for data cleaning and analysis can be found here:
 
-👉 [View SQL File](mental_health__analysis.sql)
+👉 [View SQL File](mental_health_analysis.sql)
 
 The script includes:
 - Database creation
