@@ -30,6 +30,9 @@ The objective is to identify high-risk students and understand key contributing 
 ## 🧮 Risk Score Formula
 risk_score = academic_pressure + financial_concerns + depression + anxiety + isolation + future_insecurity
 
+## 📊 Dashboard Preview
+<img width="1329" height="769" alt="image" src="https://github.com/user-attachments/assets/5affcdc3-5f96-41a2-8868-c961f2cbafaa" />
+
 ## 🛠 Tools Used
 - MySQL
 - Power BI
